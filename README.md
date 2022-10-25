@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kaaat777
+- 👀 I’m interested in Machine Learning and AI
+- 👩🏼‍💻 I’m currently learning C#
+- 💌 katherine.smith2026@gmail.com
